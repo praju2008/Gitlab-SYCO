@@ -2,8 +2,13 @@ welcome to Git
 Welcome to git again
 Welcome to git 3rd time
 Welcome to git 4th time
-Welcome to git 5th time
+Welcome to git 5th time 
 welcome to git
 File Changed
-File changed at 11.05 AM
+File changed at  1:45AM
+<<<<<<< HEAD
 Hello from master branch
+=======
+Hello from feature-1 and master branch
+>>>>>>> feature-1
+Added at 10.40 AM
