@@ -5,21 +5,10 @@ Welcome to git 4th time
 Welcome to git 5th time 
 welcome to git
 File Changed
-<<<<<<< HEAD
 File changed at  1:45AM
-<<<<<<< HEAD
 Hello from master branch
-=======
 Hello from feature-1 and master branch
->>>>>>> feature-1
-=======
 File changed at 11.05 AM
-<<<<<<< HEAD
 Hello from feature-1 and master branch
->>>>>>> feature-1
 Welcome to our branch
 Changes made
-=======
-Changes made
-Welcome to git hub
->>>>>>> fbcee00892f21e5c40dce57d73b55887f192a6ff
