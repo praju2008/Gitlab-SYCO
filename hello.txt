@@ -11,4 +11,4 @@ Hello from master branch
 =======
 Hello from feature-1 and master branch
 >>>>>>> feature-1
-Added at 10.40 AM
+Welcome to our branch
